@@ -12,3 +12,5 @@ Data Description train.zip train.zip contains train.csv and data_dictionary.csv.
 sample_submission.csv sample_submission.csv contains the submission format for the predictions against the test set. A single csv needs to be submitted as a solution
 
 Evaluation Metric Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
+
+The sample submission contains the format in which the file is to be submitted. The loan default attribute in the train data set is the target variable which is to be predicted using machine learning techniques.
